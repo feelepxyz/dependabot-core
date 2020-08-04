@@ -10,7 +10,6 @@ AllCops:
 
 Layout/DotPosition:
   EnforcedStyle: trailing
-
 Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: false
 
